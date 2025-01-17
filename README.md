@@ -1,3 +1,9 @@
+#
+# FREE from RiverExplorer Games LLC
+#
+# RiverExplorer is a trademark of RiverExplorer Games
+#
+
 # HorizonWorlds
 
 -- MOLKKY --
